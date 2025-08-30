@@ -12,7 +12,7 @@
 - 🐍 Python
 - 🌐 HTML / CSS / JS
 - 🎨 Frontend (UI/UX enfocado en usabilidad)
-- 
+- ☕ java
 ---
 
 ## 📫 Contáctame
